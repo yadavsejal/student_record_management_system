@@ -4,7 +4,7 @@ It allows users to manage student records by performing basic CRUD (Create, Read
 
 How to Run the Program
 
-Prerequisites
+Prerequisites:
 Python 3.10.1 installed on the system
 
 Steps to Run:
