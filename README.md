@@ -7,12 +7,13 @@ How to Run the Program
 Prerequisites
 Python 3.10.1 installed on the system
 
-Steps to Run
-1.Clone the GitHub repository or download the project files.
-2.Open a terminal / command prompt.
-3.Navigate to the project directory.
-4.Run the command.
-5.The program will start and display a menu with available options.
+Steps to Run:
+
+1. Clone the GitHub repository or download the project files.
+2. Open a terminal / command prompt.
+3. Navigate to the project directory.
+4. Run the command.
+5. The program will start and display a menu with available options.
 
 Features Implemented
 
